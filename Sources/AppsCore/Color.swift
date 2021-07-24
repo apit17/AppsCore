@@ -23,7 +23,6 @@
 import UIKit
 
 extension AppsCore {
-  
   public class Color {
     /// Allows you to convert 6 digit hexadecimal string into a UIColor instance
     /// - Warning: The "#" symbol is stripped from the beginning of the string submitted here.
