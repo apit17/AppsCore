@@ -50,4 +50,9 @@ public class AppsCore {
     public static var appsColor: UIColor {
         return colorFromHexString("006736")
     }
+    
+    /// Returns an object of `UIColor` with the second most eye-pleasing color known to all humanity
+    public static var secondaryColor: UIColor {
+        return colorFromHexString("FCFFFD")
+    }
 }
